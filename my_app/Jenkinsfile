@@ -1,0 +1,15 @@
+node{
+  stage('SCM checkout'){
+  
+  }
+ 
+ stage('package building') {
+ 
+ }
+
+stage('code quality test'){
+
+}
+
+
+}
